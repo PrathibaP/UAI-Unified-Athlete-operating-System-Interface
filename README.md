@@ -5,7 +5,7 @@ UAI (Unified Athlete Interface) – An end-to-end Product Management case study 
 
 > **A Product Management case study and interactive prototype for India's next-generation Athlete Operating System.**
 
-## 📖 Overview
+## Overview
 
 UAI (Unified Athlete Interface) is an end-to-end platform designed to bridge the gap between professional athletes, sponsors, coaches, academies, and sports organizations.
 
@@ -15,7 +15,7 @@ Rather than building only a sponsorship platform, UAI is envisioned as a complet
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Many professional athletes face challenges such as:
 
@@ -31,9 +31,9 @@ UAI solves these challenges by creating a trusted, data-driven platform that con
 
 ---
 
-# ✨ Key Features
+# Key Features
 
-## 👤 Athlete Platform
+##  Athlete Platform
 
 - Verified Athlete Profile
 - Aadhaar OTP Verification
@@ -50,7 +50,7 @@ UAI solves these challenges by creating a trusted, data-driven platform that con
 
 ---
 
-## 💰 Sponsorship Ecosystem
+##  Sponsorship Ecosystem
 
 - Sponsor Marketplace
 - AI Sponsor Matching
@@ -64,7 +64,7 @@ UAI solves these challenges by creating a trusted, data-driven platform that con
 
 ---
 
-## 🏃 Human Performance Hub
+##  Human Performance Hub
 
 - Performance Dashboard
 - Training Planner
@@ -79,7 +79,7 @@ UAI solves these challenges by creating a trusted, data-driven platform that con
 
 ---
 
-## 🎓 Career Hub
+##  Career Hub
 
 - Career Roadmap
 - Scholarships
@@ -92,7 +92,7 @@ UAI solves these challenges by creating a trusted, data-driven platform that con
 
 ---
 
-## 🤝 Networking & Community
+##  Networking & Community
 
 - LinkedIn-style Athlete Profiles
 - Connect with Athletes
@@ -107,7 +107,7 @@ UAI solves these challenges by creating a trusted, data-driven platform that con
 
 ---
 
-## 🛠 Sponsor & Admin Dashboard
+##  Sponsor & Admin Dashboard
 
 - Athlete Discovery
 - Funding Decisions
@@ -121,7 +121,7 @@ UAI solves these challenges by creating a trusted, data-driven platform that con
 
 ---
 
-## 🤖 AI Features
+##  AI Features
 
 - AI Career Coach
 - AI Performance Coach
@@ -133,7 +133,7 @@ UAI solves these challenges by creating a trusted, data-driven platform that con
 
 ---
 
-# 🧠 Product Thinking
+#  Product Thinking
 
 The solution extends beyond the assignment requirements by introducing:
 
@@ -156,27 +156,27 @@ These additions are designed to solve real-world athlete pain points while remai
 
 ---
 
-# 🏗 Product Vision
+#  Product Vision
 
 UAI is built around four core pillars:
 
-### 🪪 Identity
+###  Identity
 Verified Athlete Passport, Trust Score, Aadhaar Verification, QR Identity
 
-### 🏃 Performance
+###  Performance
 Human Performance Hub, AI Coaching, Recovery, Training, Analytics
 
-### 🎯 Career
+###  Career
 Career Hub, Networking, Mentorship, Scholarships, Opportunities
 
-### 💰 Funding
+###  Funding
 Sponsor Marketplace, Wallet, Sponsorship Management, Crowdfunding
 
 Together, these pillars create a scalable platform that supports athletes throughout their entire journey.
 
 ---
 
-# 🎨 Design Principles
+#  Design Principles
 
 - User-first experience
 - Clean and intuitive workflows
@@ -191,7 +191,7 @@ Together, these pillars create a scalable platform that supports athletes throug
 
 ---
 
-# 📄 Documentation
+#  Documentation
 
 This repository includes:
 
@@ -205,7 +205,7 @@ This repository includes:
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 - HTML5
 - CSS3
@@ -217,7 +217,7 @@ This repository includes:
 
 ---
 
-# 🌟 Project Highlights
+#  Project Highlights
 
 ✅ Product Management Case Study
 
@@ -235,7 +235,7 @@ This repository includes:
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Prathiba P**
 
